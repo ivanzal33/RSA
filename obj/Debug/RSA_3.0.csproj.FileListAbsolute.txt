@@ -1,0 +1,11 @@
+C:\Проекты\RSA_3.0\bin\Debug\RSA_3.0.exe.config
+C:\Проекты\RSA_3.0\bin\Debug\RSA_3.0.exe
+C:\Проекты\RSA_3.0\bin\Debug\RSA_3.0.pdb
+C:\Проекты\RSA_3.0\obj\Debug\RSA_3.0.csproj.AssemblyReference.cache
+C:\Проекты\RSA_3.0\obj\Debug\RSA_3.0.csproj.SuggestedBindingRedirects.cache
+C:\Проекты\RSA_3.0\obj\Debug\RSA_3._0.Form1.resources
+C:\Проекты\RSA_3.0\obj\Debug\RSA_3._0.Properties.Resources.resources
+C:\Проекты\RSA_3.0\obj\Debug\RSA_3.0.csproj.GenerateResource.cache
+C:\Проекты\RSA_3.0\obj\Debug\RSA_3.0.csproj.CoreCompileInputs.cache
+C:\Проекты\RSA_3.0\obj\Debug\RSA_3.0.exe
+C:\Проекты\RSA_3.0\obj\Debug\RSA_3.0.pdb
